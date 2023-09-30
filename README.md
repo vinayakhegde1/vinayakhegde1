@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayakhegde1&show_icons=true&locale=en" alt="vinayakhegde1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakhegde1&" alt="vinayakhegde1" /></p>
+
+[![An image of @vinayakhegde1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinayakhegde1)](https://holopin.io/@vinayakhegde1)
