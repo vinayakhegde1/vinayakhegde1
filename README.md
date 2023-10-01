@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakhegde1&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakhegde1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayakhegde1" alt="vinayakhegde1" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/vinayakhegde619" target="blank"><img src="https://img.shields.io/twitter/follow/vinayakhegde619?logo=twitter&style=for-the-badge" alt="vinayakhegde619" /></a> </p>
 
 - 🔭 I’m currently working on **Open Source Project**
@@ -29,5 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayakhegde1&show_icons=true&locale=en" alt="vinayakhegde1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakhegde1&" alt="vinayakhegde1" /></p>
+
 
 [![An image of @vinayakhegde1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinayakhegde1)](https://holopin.io/@vinayakhegde1)
