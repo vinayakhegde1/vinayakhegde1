@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vinayakhegde619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinayakhegde619" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vinayak hegde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayak hegde" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/vinayak-hegde-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vinayak-hegde-/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,6 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayakhegde1&show_icons=true&locale=en" alt="vinayakhegde1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakhegde1&" alt="vinayakhegde1" /></p>
+
 
 
 [![An image of @vinayakhegde1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinayakhegde1)](https://holopin.io/@vinayakhegde1)
