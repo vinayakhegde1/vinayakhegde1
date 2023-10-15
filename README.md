@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/vinayakhegde619" target="blank"><img src="https://img.shields.io/twitter/follow/vinayakhegde619?logo=twitter&style=for-the-badge" alt="vinayakhegde619" /></a> </p>
+![lofi](https://github.com/vinayakhegde1/vinayakhegde1/assets/73926849/197825f1-24aa-4dd9-8b23-638c55f1f8fd)
 
 - 🔭 I’m currently working on **Open Source Project**
 
@@ -24,7 +24,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vinayakhegde1&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vinayakhegde1&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakhegde1&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
