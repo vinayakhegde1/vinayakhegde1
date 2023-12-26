@@ -23,14 +23,12 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vinayakhegde1&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+
 
 [![An image of @vinayakhegde1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinayakhegde1)](https://holopin.io/@vinayakhegde1)
 
 
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vinayakhegde1&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
