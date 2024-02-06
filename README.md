@@ -24,8 +24,5 @@
 
 
 
-[![An image of @vinayakhegde1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinayakhegde1)](https://holopin.io/@vinayakhegde1)
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
