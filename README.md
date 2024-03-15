@@ -3,7 +3,7 @@
 
 
 
-![lofi](https://github.com/vinayakhegde1/vinayakhegde1/assets/73926849/197825f1-24aa-4dd9-8b23-638c55f1f8fd)
+
 
 - 🔭 I’m currently working on **Open Source Project**
 
